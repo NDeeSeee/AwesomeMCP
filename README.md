@@ -17,6 +17,7 @@ The **Model Context Protocol** is an open standard that lets AI applications con
   - [Productivity & Communication](#productivity--communication)
   - [Search & Web](#search--web)
   - [Finance](#finance)
+  - [AI & Media](#ai--media)
   - [Science & Research](#science--research)
 - [Directories & Registries](#directories--registries)
 - [Tutorials & Articles](#tutorials--articles)
@@ -104,6 +105,10 @@ Maintained in [modelcontextprotocol/servers](https://github.com/modelcontextprot
 ### Finance
 
 - [Stripe](https://github.com/stripe/agent-toolkit) — Interact with the Stripe payments API.
+
+### AI & Media
+
+- [RunAPI MCP](https://github.com/runapi-ai/mcp) — Create and monitor AI image, video, music, and model API jobs through RunAPI.
 
 ### Science & Research
 
