@@ -100,6 +100,7 @@ Maintained in [modelcontextprotocol/servers](https://github.com/modelcontextprot
 - [Exa](https://github.com/exa-labs/exa-mcp-server) — AI-native web search.
 - [Tavily](https://github.com/tavily-ai/tavily-mcp) — Search and content extraction for agents.
 - [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) — Query the Perplexity Sonar API.
+- [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) — Search peer-to-peer luxury, exotic, and EV rentals from independent hosts via a public remote Streamable HTTP MCP (no auth).
 
 ### Finance
 
