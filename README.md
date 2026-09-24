@@ -100,6 +100,7 @@ Maintained in [modelcontextprotocol/servers](https://github.com/modelcontextprot
 - [Exa](https://github.com/exa-labs/exa-mcp-server) — AI-native web search.
 - [Tavily](https://github.com/tavily-ai/tavily-mcp) — Search and content extraction for agents.
 - [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) — Query the Perplexity Sonar API.
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`.
 
 ### Finance
 
