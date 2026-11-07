@@ -80,6 +80,7 @@ Maintained in [modelcontextprotocol/servers](https://github.com/modelcontextprot
 - [Redis](https://github.com/redis/mcp-redis) — Interact with Redis data structures.
 
 - [DC Hub](https://github.com/azmartone67/dchub-mcp-server) — Live data-center site selection layer; Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (94 tools, remote `https://dchub.cloud/mcp`).
+
 ### Cloud & Infrastructure
 
 - [AWS](https://github.com/awslabs/mcp) — Official AWS MCP servers for cloud resources.
