@@ -100,6 +100,7 @@ Maintained in [modelcontextprotocol/servers](https://github.com/modelcontextprot
 - [Exa](https://github.com/exa-labs/exa-mcp-server) — AI-native web search.
 - [Tavily](https://github.com/tavily-ai/tavily-mcp) — Search and content extraction for agents.
 - [Perplexity](https://github.com/ppl-ai/modelcontextprotocol) — Query the Perplexity Sonar API.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Hosted MCP server for searching under-400-capacity live music venues, booking contacts, and tour routes.
 
 ### Finance
 
