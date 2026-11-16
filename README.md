@@ -79,7 +79,7 @@ Maintained in [modelcontextprotocol/servers](https://github.com/modelcontextprot
 - [ClickHouse](https://github.com/ClickHouse/mcp-clickhouse) — Query ClickHouse analytics databases.
 - [Redis](https://github.com/redis/mcp-redis) — Interact with Redis data structures.
 
-- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) — Orchestration layer for data center and energy intelligence; start with execute_plan; Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (96 tools, remote `https://dchub.cloud/mcp`).
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) — Orchestration layer for data center and energy intelligence; start with execute_plan; Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (97 tools, remote `https://dchub.cloud/mcp`).
 
 ### Cloud & Infrastructure
 
